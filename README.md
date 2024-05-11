@@ -1,4 +1,4 @@
-# imersao_ai_aula_4
+# ParentAI Care
 Criação de um aplicativo chamado 'ParentAI', utilizando google-generativeai para praticar o conhecimento adquirido na aula 4 da Imersão AI Alura + Google.
 A ideia surguiu a partir de necessidades reais passadas por mim e minha esposa com a chegada de nossa primeira filha.
 
